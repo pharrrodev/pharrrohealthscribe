@@ -1,0 +1,5 @@
+{
+  "name": "Pharrro Health Scribe",
+  "description": "An application that simulates an agentic workflow for generating patient discharge summaries using the Gemini API. It allows selecting a patient, synthesizes clinical notes, drafts a summary for human review, and allows for edits before finalization.",
+  "requestFramePermissions": []
+}
